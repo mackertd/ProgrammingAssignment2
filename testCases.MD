@@ -1,6 +1,6 @@
 # There are the following test cases for the Programming Assignment 2
 
-Test Case 1 - 2 x 2 matrix
+##Test Case 1 - 2 x 2 matrix
 
 > x <- rbind(c(1, 2), c(2, 1))
 > m$get()
